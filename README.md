@@ -19,5 +19,5 @@
 ---
 <h2>
   Please refer to the
-  <a href="https://C-Accel-CRIPT.github.io/cript-excel-uploader/">CRIPT Excel Uploader documentation</a>
+  <a href="https://nh916.github.io/cript-excel-uploader/">CRIPT Excel Uploader documentation</a>
 </h2>
